@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Angular and j query.
 - 💞️ 
 - 📫 How to reach me ...
+- Personal site: https://swadiqcmd.gq
 - Facebook: https://fb.me/swadiqcmd
 - Messenger: https://m.me/swadiqcmd
 - Twitter:  https://Twitter.com/swadiqcmd
