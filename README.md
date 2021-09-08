@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swadiqcmd
+- 👋 Hi, I’m @swadiqcmd CEO of @earlyads
 - 👀 I’m interested in front end web development.
 - 🌱 I’m currently learning Angular and j query.
 - 💞️ 
